@@ -1,4 +1,4 @@
-# pixi-play-ground
-R&amp;Ds and Test round on PixiJS
+# HTML5 Perf Test
+R&amp;Ds and Test round on Performance
 
-This reporsitory is a test bench on PixiJS related to findings and workaround to understand Pixi features and functionalities. 
+This reporsitory is a test bench on Perfomance related to findings and workaround.
