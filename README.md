@@ -1,4 +1,4 @@
-# HTML5 Perf Test
-R&amp;Ds and Test round on Performance
+# HTML5 Ember Integration Test
+R&amp;D on loading Ember app inside HTML
 
-This reporsitory is a test bench on Perfomance related to findings and workaround.
+This reporsitory is a test bench

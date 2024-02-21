@@ -1,7 +1,6 @@
 function start() {
     console.log('starting the app');
-    
-    compare();
+    // compare();
 }
 
 function compare() {
